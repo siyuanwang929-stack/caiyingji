@@ -1,0 +1,5 @@
+{
+  "name": "财盈记 (CaiYingJi)",
+  "description": "一个安全的本地资金账本，支持多用户存款、取款记录以及自动 10% 年利率月复利计算。",
+  "requestFramePermissions": []
+}
